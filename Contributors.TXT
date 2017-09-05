@@ -1,0 +1,29 @@
+venkatnaidu@users.sourceforge.net 
+
+
+   	  PROJECTS DONE AT International Institute of Information Technology Bangalore
+
+				   
+
+
+4 #######Computer Architecture PROJECT:                          
+	
+		Title: Real TIme Search(DataBase side)           Status: FAILED
+		               Implementation of R*Trees
+			       Profiling
+			       Study of k-d Trees
+
+		Platform: Windows(XP)/Linux(SUSE)		 Programming Language: Java
+
+	Roll Number		Name				 Email-ID:
+	2005145          Venkata Thippanna Rao P  R              venkata.thippannarao@iiitb.ac.in
+
+	2005018          Aparna B                                aparna.b@iiitb.ac.in 
+
+	2005129          Sripradha J                             sripradha.j@iiitb.ac.in
+
+	2005079          Poornima  R                             poornima.r@iiitb.ac.in 
+
+	2005078          Poonam Zham                             poonam.zham@iiitb.ac.in
+
+
